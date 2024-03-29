@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uzairkhan11w
-- 👀 I’m interested in Tech,Coding,Everything related to Internet
-- 🌱 I’m currently learning Science
-- 💞️ I’m looking to collaborate on any thing related to mobiles, laptops, internet
+- 👀 I’m interested in Tech,Coding,Data Science, AI/ML
+- 🌱 I’m currently studying Statistics, AI/ML, Python Programming, R Programming
+- 💞️ I’m looking to collaborate on any thing related to Data Science, IoT, Machine Learning, Artificial Intelligence
 - 📫 How to reach me instagram @uzairkhan11w
 
 <!---
