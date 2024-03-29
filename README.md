@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Uzairkhan11w
+- 👋 Hi, I’m Uzair Javid Khan
 - 👀 I’m interested in Tech,Coding,Data Science, AI/ML
 - 🌱 I’m currently studying Statistics, AI/ML, Python Programming, R Programming
 - 💞️ I’m looking to collaborate on any thing related to Data Science, IoT, Machine Learning, Artificial Intelligence
