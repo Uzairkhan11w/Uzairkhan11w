@@ -148,8 +148,6 @@ Central tendency, dispersion, skewness, kurtosis & Shapiro–Wilk normality test
   <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Uzairkhan11w/Uzairkhan11w/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<sub>⚙️ animates daily via GitHub Actions — one-time setup with <code>snake.yml</code> (provided separately)</sub>
-
 </div>
 
 ---
